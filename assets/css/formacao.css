@@ -1,0 +1,19 @@
+.academic{
+    max-width: 1220px;
+    margin: auto;
+    padding: 30px 20px;
+    margin-top: 20rem;
+}
+
+.academic__titulo{
+    font-weight: 700;
+    font-size: 32px;
+    color: #464646;
+    text-align: center;
+}
+
+.academic__cursos{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
